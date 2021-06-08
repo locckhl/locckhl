@@ -12,7 +12,7 @@ Born to express, not impress 😄
   <img align="left" alt="Locckhl's Instagram" width="22px" src="https://camo.githubusercontent.com/0b9b5efe8bd5edcdaec78496cf9ddaf6d98cd2b2574e23d5deca0b5e7eae583a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d657373656e6765722e737667" />
 </a>
 
-<a href="https://www.instagram.com/locckhl/l">
+<a href="https://www.instagram.com/locckhl">
   <img align="left" alt="Locckhl's Instagram" width="22px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />
 </a>
 
@@ -37,6 +37,11 @@ No Activity tracked this Week
 📈 My GitHub Stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=locckhl&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+📈 Streak 💪💪:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Locckhl&theme=dracula)](https://git.io/streak-stats)
 
 ---
 
