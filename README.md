@@ -24,20 +24,6 @@ Born to express, not impress 😄
 
 ---
 
-📈 This week i spent my time on:
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   1 hr 9 mins     ████████████▒░░░░░░░░░░░░   49.58 % 
-JSX          41 mins         ███████▒░░░░░░░░░░░░░░░░░   29.83 % 
-GraphQL      21 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Other        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-```
-<!--END_SECTION:waka-->
-
----
-
 📈 My GitHub Stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=locckhl&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
@@ -51,10 +37,23 @@ CSS          1 min           ▒░░░░░░░░░░░░░░░░
 
 📈 Top languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=locckhl&langs_count=8&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=locckhl&langs_count=8&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
+📈 This week i spent my time on:
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   1 hr 9 mins     ████████████▒░░░░░░░░░░░░   49.58 % 
+JSX          41 mins         ███████▒░░░░░░░░░░░░░░░░░   29.83 % 
+GraphQL      21 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Other        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+```
+<!--END_SECTION:waka-->
+
+---
 
 <!--
 **locckhl/locckhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
