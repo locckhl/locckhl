@@ -45,7 +45,8 @@ Born to express, not impress 😄
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Git Config   2 mins          ████████████▒░░░░░░░░░░░░   49.80 % 
+JavaScript   2 mins          ████████████░░░░░░░░░░░░░   47.77 % 
 ```
 <!--END_SECTION:waka-->
 
