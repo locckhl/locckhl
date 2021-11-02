@@ -45,7 +45,7 @@ Born to express, not impress 😄
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   25 mins         █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
