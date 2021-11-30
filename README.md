@@ -45,8 +45,7 @@ Born to express, not impress 😄
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 37 mins    ████████████████▓░░░░░░░░   66.84 % 
-JSX          48 mins         ████████▒░░░░░░░░░░░░░░░░   33.16 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
