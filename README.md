@@ -5,19 +5,19 @@ Born to express, not impress 😄
 📫 How to reach me: 
 
 <a href="https://www.facebook.com/Locckhl">
-  <img align="left" alt="Locckhl's Facebook" width="22px" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" />
+  <img align="left" alt="Locckhl's Facebook" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-1024.png" />
 </a>
 
 <a href="https://www.facebook.com/messages/t/100005849329293">
-  <img align="left" alt="Locckhl's Instagram" width="22px" src="https://camo.githubusercontent.com/0b9b5efe8bd5edcdaec78496cf9ddaf6d98cd2b2574e23d5deca0b5e7eae583a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d657373656e6765722e737667" />
+  <img align="left" alt="Locckhl's Messenger" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Messenger_colored_svg-1024.png" />
 </a>
 
 <a href="https://www.instagram.com/locckhl">
-  <img align="left" alt="Locckhl's Instagram" width="22px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />
+  <img align="left" alt="Locckhl's Instagram" width="22px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-1024.png" />
 </a>
 
 <a href="mailto:locckhl123@gmail.com">
-  <img align="left" alt="Locckhl's Mail" width="22px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" />
+  <img align="left" alt="Locckhl's Mail" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" />
 </a>
 
 <br />
