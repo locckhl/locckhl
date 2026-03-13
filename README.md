@@ -46,11 +46,11 @@ Born to express, not impress 😄
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         1 hr 33 mins          ████████▓░░░░░░░░░░░░░░░░   34.28 %
-Markdown     58 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.56 %
-Terraform    39 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.34 %
-TypeScript   30 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
-JSON         28 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
+YAML         54 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.20 %
+Markdown     41 mins               █████░░░░░░░░░░░░░░░░░░░░   19.84 %
+Terraform    34 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
+TypeScript   30 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
+JSON         28 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
 ```
 
 <!--END_SECTION:waka-->
