@@ -46,7 +46,11 @@ Born to express, not impress 😄
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   19 mins               ███████████████████████▒░   93.02 %
+Other        0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+YAML         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Markdown     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
