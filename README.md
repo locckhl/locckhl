@@ -46,11 +46,11 @@ Born to express, not impress 😄
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        3 hrs 30 mins         █████████▓░░░░░░░░░░░░░░░   38.68 %
-Markdown          3 hrs 4 mins          ████████▒░░░░░░░░░░░░░░░░   33.88 %
-Protocol Buffer   1 hr 14 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
-Other             25 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-Go                15 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Markdown     1 hr 18 mins          █████████████░░░░░░░░░░░░   51.37 %
+Other        20 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 %
+TypeScript   20 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
+Go           15 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
+JSON         12 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
 ```
 
 <!--END_SECTION:waka-->
