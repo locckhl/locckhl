@@ -46,10 +46,8 @@ Born to express, not impress 😄
 <!--START_SECTION:waka-->
 
 ```txt
-Vue          1 hr 22 mins          ███████████▒░░░░░░░░░░░░░   45.46 %
-Go           50 mins               ███████░░░░░░░░░░░░░░░░░░   27.94 %
-Other        32 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.91 %
-TypeScript   15 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+Go      50 mins               ███████████████▒░░░░░░░░░   60.93 %
+Other   32 mins               █████████▓░░░░░░░░░░░░░░░   39.07 %
 ```
 
 <!--END_SECTION:waka-->
