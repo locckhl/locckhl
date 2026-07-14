@@ -46,7 +46,10 @@ Born to express, not impress 😄
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other   7 mins                ██████████████████████░░░   87.36 %
+Bash    1 min                 ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+YAML    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+JSON    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
