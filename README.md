@@ -46,11 +46,11 @@ Born to express, not impress 😄
 <!--START_SECTION:waka-->
 
 ```txt
-Vue          40 mins               █████████████░░░░░░░░░░░░   52.19 %
-TypeScript   24 mins               ███████▓░░░░░░░░░░░░░░░░░   31.24 %
-JavaScript   5 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-Ruby         3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-Markdown     2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+Markdown     2 hrs 9 mins          ████████████▓░░░░░░░░░░░░   50.30 %
+Vue          1 hr 20 mins          ████████░░░░░░░░░░░░░░░░░   31.39 %
+TypeScript   28 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
+Bash         9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+JavaScript   5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
 ```
 
 <!--END_SECTION:waka-->
