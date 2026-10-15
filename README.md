@@ -46,10 +46,9 @@ Born to express, not impress 😄
 <!--START_SECTION:waka-->
 
 ```txt
-YAML       59 mins               ███████████▒░░░░░░░░░░░░░   44.73 %
-Markdown   45 mins               ████████▓░░░░░░░░░░░░░░░░   34.41 %
-Other      27 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.82 %
-SQL        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+YAML       26 mins               █████████▓░░░░░░░░░░░░░░░   38.36 %
+Markdown   24 mins               ████████▓░░░░░░░░░░░░░░░░   34.99 %
+Other      18 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.65 %
 ```
 
 <!--END_SECTION:waka-->
